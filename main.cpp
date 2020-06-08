@@ -84,7 +84,7 @@ int main() {
 
 
 	cout << '\n' << (*mv);
-	ofstream out("out.txt");
+	ofstream out("output.txt");
 	out << (*mv);
 	system("pause>>void");
 
